@@ -1,24 +1,17 @@
 # 🤖 Multi-Agent AI Assistant
 
-A multi-agent AI system built using LangGraph and Groq, capable of:
+A multi-agent AI system built using LangGraph, Groq, and Streamlit.
 
-- Generating Python code
-- Writing documentation
-- Creating unit tests
-
-## Tech Stack
-- LangChain
-- LangGraph
-- Groq (LLM)
-- Streamlit (UI)
+## 🌐 Live Demo
+https://multi-agent-ai-pzsztpvjzhjkqnycpzze8z.streamlit.app/ 
 
 ## Features
-- Multi-agent workflow
-- Shared state communication
-- Interactive UI
+- Code generation
+- Documentation generation
+- Unit test generation
+- Multi-agent workflow using LangGraph
 
 ## Run Locally
-
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
