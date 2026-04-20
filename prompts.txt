@@ -1,0 +1,5 @@
+Create a Python class for a library management system with add, issue, and return methods
+Build a Python CLI todo application with add, delete, and list features
+Write a Python function to implement binary search
+Create a Python class for a bank account with deposit and withdraw methods
+Write a Python function to validate email addresses using regex
