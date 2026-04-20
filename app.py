@@ -17,6 +17,11 @@ agent_choice = st.selectbox(
 
 agent_choice = agent_choice[0]
 
+code_input = ""
+
+if agent_choice in ["2", "3"]:  # Docs or Tests
+    code_input = st.text_area("Paste your code (for documentation/test agents):")
+    
 if st.button("Run AI"):
 
     if not task.strip():
@@ -24,7 +29,7 @@ if st.button("Run AI"):
     else:
         state = {
             "task": task,
-            "code": "",
+            "code": code_input,
             "docs": ""
         }
 

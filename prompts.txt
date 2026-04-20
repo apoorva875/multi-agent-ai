@@ -1,5 +1,29 @@
+# --- CODE GENERATOR ---
+Write a Python function to calculate factorial using recursion
+Write a Python function to check if a number is prime
+Implement binary search in Python
+Create a Python function to reverse a string
+Write a Python function to find duplicates in a list
+Create a Python function to merge two sorted lists
+
+# --- DOCUMENTATION WRITER ---
+Explain this Python code clearly with function descriptions and usage
+Write concise documentation for this Python class including methods and parameters
+Document the following code with examples and edge cases
+Provide a clear explanation of what this code does and how to use it
+
+# --- TEST WRITER ---
+Write unit tests for a Python function that checks if a number is prime
+Generate test cases for a binary search implementation
+Write pytest unit tests for a factorial function
+Create test cases for a string reversal function including edge cases
+Write unit tests for a function that validates email addresses
+
+# --- FULL PIPELINE (BEST FOR DEMO) ---
 Create a Python class for a library management system with add, issue, and return methods
 Build a Python CLI todo application with add, delete, and list features
-Write a Python function to implement binary search
-Create a Python class for a bank account with deposit and withdraw methods
-Write a Python function to validate email addresses using regex
+Create a Python class for a bank account with deposit, withdraw, and transaction history
+Build a Python expense tracker with categories and summaries
+Create a Python program to validate email addresses using regex
+Create a Python class for a student management system
+Build a simple calculator class supporting add, subtract, multiply, and divide
